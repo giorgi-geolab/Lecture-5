@@ -1,0 +1,24 @@
+p {
+  font-family: "Tiny5", sans-serif;
+}
+
+
+#coding {
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    line-height: 40px;
+    letter-spacing: 10px;
+}
+
+.abzaci {
+    text-indent: 20px; /* აბზაცი */
+    text-transform: capitalize;
+}
+
+h5{
+    font-weight: bold;
+}
+
+h4{
+    text-transform: capitalize;
+    font-style: italic;
+}
